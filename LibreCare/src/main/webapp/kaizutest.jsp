@@ -7,10 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<<<<<<< HEAD
-ああああああああ
-=======
-てすと
->>>>>>> branch 'master' of https://github.com/niigata-b/k-hd
+
 </body>
 </html>

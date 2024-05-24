@@ -7,6 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 あうぇお；いｆｊをあいｒｇはおいｗｇｈｗｈｒごいあ
+=======
+大貴です。更新されてますか？
+>>>>>>> branch 'master' of https://github.com/niigata-b/k-hd
 </body>
 </html>
