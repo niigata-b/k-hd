@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+大貴です。更新されてますか？
 </body>
 </html>
